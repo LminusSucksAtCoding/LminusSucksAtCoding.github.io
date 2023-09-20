@@ -26,8 +26,8 @@ _This is italic text_
 >>> ...or with spaces between arrows.
 
 ## Lists
-[link text] (LminusSucksAtCoding.github.io)
-[link with title] (LminusSucksAtCoding.github.io "Test Page!")
+[link text](LminusSucksAtCoding.github.io)
+[link with title](LminusSucksAtCoding.github.io "Test Page!")
 
 ## Images
 ![Minion](https://octodex.github.com/images/minion.png)
